@@ -1,5 +1,5 @@
 # Titulo
-##Subtitulo
+## Subtitulo
 cosas que aprendi el curso:
 1- Crear un repositorio
 2- hacer Commits
