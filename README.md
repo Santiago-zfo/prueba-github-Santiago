@@ -1,4 +1,10 @@
 # prueba-github-Santiago
-git init
+cosas que aprendi el curso:
+1- Crear un repositorio
+2- hacer Commits
+3- Trabajar con Ramas
+
+Bloque de Codigo
+git init prueba
 git add .
-git commit -m "hola"
+git commit -m "prueaba"
